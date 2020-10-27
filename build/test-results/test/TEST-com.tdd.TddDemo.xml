@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tdd.TddDemo" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-10-26T04:32:13" hostname="DESKTOP-9T3G1G1" time="0.012">
+  <properties/>
+  <testcase name="addition" classname="com.tdd.TddDemo" time="0.008"/>
+  <testcase name="addition1" classname="com.tdd.TddDemo" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
